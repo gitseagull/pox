@@ -1,0 +1,1168 @@
+POX 0.1.0 (betta) / Copyright 2011-2013 James McCauley, et al.
+DEBUG:core:POX 0.1.0 (betta) going up...
+DEBUG:core:Running on CPython (2.7.3/Aug 1 2012 05:16:07)
+DEBUG:core:Platform is Linux-3.2.0-40-generic-pae-i686-with-Ubuntu-12.04-precise
+INFO:core:POX 0.1.0 (betta) is up.
+DEBUG:openflow.of_01:Listening on 0.0.0.0:6633
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+DEBUG:of_tutorial:Controlling [00-00-00-00-00-01 1]
+2  received:  0
+5  received:  0
+11  received:  0
+7  received:  0
+1  received:  0
+4  received:  0
+3  received:  0
+12  received:  0
+6  received:  0
+10  received:  0
+9  received:  0
+8  received:  0
+65534  received:  0
+DEBUG:of_tutorial:This time end !!!
+2  received:  0
+5  received:  0
+11  received:  0
+7  received:  0
+1  received:  0
+4  received:  0
+3  received:  0
+12  received:  0
+6  received:  0
+10  received:  0
+9  received:  0
+8  received:  0
+65534  received:  0
+Start>>>>>>>>> IP
+00:00:00:00:00:01
+00:00:00:00:00:0c
+10.0.1.102
+10.0.1.2
+12
+End>>>>>>>>>
+2  received:  0
+5  received:  0
+11  received:  0
+7  received:  0
+1  received:  238
+4  received:  0
+3  received:  0
+12  received:  336
+6  received:  0
+10  received:  0
+9  received:  0
+8  received:  0
+65534  received:  0
+DEBUG:of_tutorial:This time end !!!
+End>>>>>>>>>
+2  received:  0
+5  received:  0
+11  received:  0
+7  received:  0
+1  received:  826
+4  received:  0
+3  received:  42
+12  received:  1064
+6  received:  0
+10  received:  0
+9  received:  0
+8  received:  0
+65534  received:  0
+DEBUG:of_tutorial:This time end !!!
+End>>>>>>>>>
+2  received:  0
+5  received:  42
+11  received:  0
+7  received:  0
+1  received:  1316
+4  received:  0
+3  received:  532
+12  received:  2044
+6  received:  0
+10  received:  0
+9  received:  0
+8  received:  0
+65534  received:  0
+End>>>>>>>>>
+2  received:  0
+5  received:  434
+11  received:  0
+7  received:  0
+1  received:  1806
+4  received:  0
+3  received:  1022
+12  received:  3556
+6  received:  0
+10  received:  0
+9  received:  0
+8  received:  0
+65534  received:  0
+DEBUG:of_tutorial:This time end !!!
+End>>>>>>>>>
+2  received:  0
+5  received:  924
+11  received:  0
+7  received:  238
+1  received:  2100
+4  received:  0
+3  received:  1512
+12  received:  5264
+6  received:  0
+10  received:  0
+9  received:  0
+8  received:  0
+65534  received:  0
+End>>>>>>>>>
+2  received:  0
+5  received:  1414
+11  received:  0
+7  received:  728
+1  received:  2590
+4  received:  0
+3  received:  1904
+12  received:  7364
+6  received:  0
+10  received:  0
+9  received:  140
+8  received:  0
+65534  received:  0
+End>>>>>>>>>
+2  received:  0
+5  received:  1904
+11  received:  0
+7  received:  1218
+1  received:  3080
+4  received:  0
+3  received:  2296
+12  received:  9954
+6  received:  0
+10  received:  42
+9  received:  630
+8  received:  0
+65534  received:  0
+DEBUG:of_tutorial:This time end !!!
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:0c
+00:00:00:00:00:05
+10.0.1.6
+10.0.1.99
+5
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:05
+00:00:00:00:00:0c
+10.0.1.102
+10.0.1.6
+12
+End>>>>>>>>>
+2  received:  0
+5  received:  2198
+11  received:  0
+7  received:  1708
+1  received:  3570
+4  received:  0
+3  received:  2786
+12  received:  12796
+6  received:  0
+10  received:  532
+9  received:  1120
+8  received:  0
+65534  received:  0
+DEBUG:of_tutorial:This time end !!!
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:0c
+00:00:00:00:00:07
+10.0.1.8
+10.0.1.99
+7
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:0c
+00:00:00:00:00:01
+10.0.1.2
+10.0.1.99
+1
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:07
+00:00:00:00:00:0c
+10.0.1.102
+10.0.1.8
+12
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:01
+00:00:00:00:00:0c
+10.0.1.102
+10.0.1.2
+12
+End>>>>>>>>>
+2  received:  0
+5  received:  2688
+11  received:  0
+7  received:  2002
+1  received:  3864
+4  received:  0
+3  received:  3276
+12  received:  15540
+6  received:  0
+10  received:  1022
+9  received:  1610
+8  received:  0
+65534  received:  0
+DEBUG:of_tutorial:This time end !!!
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:0c
+00:00:00:00:00:09
+10.0.1.10
+10.0.1.99
+9
+End>>>>>>>>>
+ARP mzw
+Start >>>>>>>>>>> ARP
+10.0.1.102
+10.0.1.2
+End ARP ............................
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:09
+00:00:00:00:00:0c
+10.0.1.102
+10.0.1.10
+12
+End>>>>>>>>>
+2  received:  0
+5  received:  3178
+11  received:  0
+7  received:  2492
+1  received:  4354
+4  received:  0
+3  received:  3766
+12  received:  18424
+6  received:  0
+10  received:  1512
+9  received:  1904
+8  received:  0
+65534  received:  0
+DEBUG:of_tutorial:This time end !!!
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:0c
+00:00:00:00:00:03
+10.0.1.4
+10.0.1.99
+3
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:03
+00:00:00:00:00:0c
+10.0.1.102
+10.0.1.4
+12
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:0c
+00:00:00:00:00:0a
+10.0.1.11
+10.0.1.99
+10
+End>>>>>>>>>
+2  received:  0
+5  received:  3668
+11  received:  0
+7  received:  3080
+1  received:  4844
+4  received:  0
+3  received:  4060
+12  received:  21266
+6  received:  0
+10  received:  1904
+9  received:  2394
+8  received:  0
+65534  received:  0
+DEBUG:of_tutorial:This time end !!!
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:0a
+00:00:00:00:00:0c
+10.0.1.102
+10.0.1.11
+12
+End>>>>>>>>>
+ARP mzw
+Start >>>>>>>>>>> ARP
+10.0.1.102
+10.0.1.4
+End ARP ............................
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:0c
+00:00:00:00:00:05
+10.0.1.6
+10.0.1.99
+5
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:05
+00:00:00:00:00:0c
+10.0.1.102
+10.0.1.6
+12
+End>>>>>>>>>
+2  received:  0
+5  received:  3962
+11  received:  0
+7  received:  3570
+1  received:  5334
+4  received:  0
+3  received:  4648
+12  received:  24346
+6  received:  0
+10  received:  2296
+9  received:  2982
+8  received:  0
+65534  received:  0
+DEBUG:of_tutorial:This time end !!!
+ARP mzw
+Start >>>>>>>>>>> ARP
+10.0.1.102
+10.0.1.6
+End ARP ............................
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:0c
+00:00:00:00:00:07
+10.0.1.8
+10.0.1.99
+7
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:0c
+00:00:00:00:00:01
+10.0.1.2
+10.0.1.99
+1
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:07
+00:00:00:00:00:0c
+10.0.1.102
+10.0.1.8
+12
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:01
+00:00:00:00:00:0c
+10.0.1.102
+10.0.1.2
+12
+End>>>>>>>>>
+2  received:  0
+5  received:  4452
+11  received:  0
+7  received:  3864
+1  received:  5628
+4  received:  0
+3  received:  5138
+12  received:  27132
+6  received:  0
+10  received:  2786
+9  received:  3472
+8  received:  0
+65534  received:  0
+DEBUG:of_tutorial:This time end !!!
+ARP mzw
+Start >>>>>>>>>>> ARP
+10.0.1.102
+10.0.1.8
+End ARP ............................
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:0c
+00:00:00:00:00:09
+10.0.1.10
+10.0.1.99
+9
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:09
+00:00:00:00:00:0c
+10.0.1.102
+10.0.1.10
+12
+End>>>>>>>>>
+2  received:  0
+5  received:  4942
+11  received:  0
+7  received:  4354
+1  received:  6118
+4  received:  0
+3  received:  5628
+12  received:  30016
+6  received:  0
+10  received:  3276
+9  received:  3766
+8  received:  0
+65534  received:  0
+DEBUG:of_tutorial:This time end !!!
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:0c
+00:00:00:00:00:03
+10.0.1.4
+10.0.1.99
+3
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:03
+00:00:00:00:00:0c
+10.0.1.102
+10.0.1.4
+12
+End>>>>>>>>>
+ARP mzw
+Start >>>>>>>>>>> ARP
+10.0.1.102
+10.0.1.10
+End ARP ............................
+2  received:  0
+5  received:  5432
+11  received:  0
+7  received:  4844
+1  received:  6608
+4  received:  0
+3  received:  5922
+12  received:  32900
+6  received:  0
+10  received:  3766
+9  received:  4256
+8  received:  0
+65534  received:  0
+DEBUG:of_tutorial:This time end !!!
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:0c
+00:00:00:00:00:0a
+10.0.1.11
+10.0.1.99
+10
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:0a
+00:00:00:00:00:0c
+10.0.1.102
+10.0.1.11
+12
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:0c
+00:00:00:00:00:05
+10.0.1.6
+10.0.1.99
+5
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:05
+00:00:00:00:00:0c
+10.0.1.102
+10.0.1.6
+12
+End>>>>>>>>>
+2  received:  0
+5  received:  5726
+11  received:  0
+7  received:  5334
+1  received:  7098
+4  received:  0
+3  received:  6412
+12  received:  35742
+6  received:  0
+10  received:  4158
+9  received:  4746
+8  received:  0
+65534  received:  0
+DEBUG:of_tutorial:This time end !!!
+ARP mzw
+Start >>>>>>>>>>> ARP
+10.0.1.102
+10.0.1.11
+End ARP ............................
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:0c
+00:00:00:00:00:07
+10.0.1.8
+10.0.1.99
+7
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:0c
+00:00:00:00:00:01
+10.0.1.2
+10.0.1.99
+1
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:07
+00:00:00:00:00:0c
+10.0.1.102
+10.0.1.8
+12
+End>>>>>>>>>
+2  received:  0
+5  received:  6216
+11  received:  0
+7  received:  5628
+1  received:  7490
+4  received:  0
+3  received:  6902
+12  received:  38528
+6  received:  0
+10  received:  4648
+9  received:  5236
+8  received:  0
+65534  received:  0
+DEBUG:of_tutorial:This time end !!!
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:01
+00:00:00:00:00:0c
+10.0.1.102
+10.0.1.2
+12
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:0c
+00:00:00:00:00:09
+10.0.1.10
+10.0.1.99
+9
+End>>>>>>>>>
+2  received:  0
+5  received:  6804
+11  received:  0
+7  received:  6118
+1  received:  7882
+4  received:  0
+3  received:  7392
+12  received:  41468
+6  received:  0
+10  received:  5138
+9  received:  5628
+8  received:  0
+65534  received:  0
+DEBUG:of_tutorial:This time end !!!
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:09
+00:00:00:00:00:0c
+10.0.1.102
+10.0.1.10
+12
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:0c
+00:00:00:00:00:03
+10.0.1.4
+10.0.1.99
+3
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:03
+00:00:00:00:00:0c
+10.0.1.102
+10.0.1.4
+12
+End>>>>>>>>>
+2  received:  0
+5  received:  7294
+11  received:  0
+7  received:  6608
+1  received:  8372
+4  received:  0
+3  received:  7686
+12  received:  44310
+6  received:  0
+10  received:  5628
+9  received:  6020
+8  received:  0
+65534  received:  0
+DEBUG:of_tutorial:This time end !!!
+ARP mzw
+Start >>>>>>>>>>> ARP
+10.0.1.102
+10.0.1.2
+End ARP ............................
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:0c
+00:00:00:00:00:0a
+10.0.1.11
+10.0.1.99
+10
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:0a
+00:00:00:00:00:0c
+10.0.1.102
+10.0.1.11
+12
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:0c
+00:00:00:00:00:05
+10.0.1.6
+10.0.1.99
+5
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:05
+00:00:00:00:00:0c
+10.0.1.102
+10.0.1.6
+12
+End>>>>>>>>>
+2  received:  0
+5  received:  7588
+11  received:  0
+7  received:  7098
+1  received:  8862
+4  received:  0
+3  received:  8176
+12  received:  47096
+6  received:  0
+10  received:  5922
+9  received:  6510
+8  received:  0
+65534  received:  0
+DEBUG:of_tutorial:This time end !!!
+ARP mzw
+Start >>>>>>>>>>> ARP
+10.0.1.102
+10.0.1.4
+End ARP ............................
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:0c
+00:00:00:00:00:07
+10.0.1.8
+10.0.1.99
+7
+End>>>>>>>>>
+2  received:  0
+5  received:  8078
+11  received:  0
+7  received:  7490
+1  received:  9352
+4  received:  0
+3  received:  8666
+12  received:  49980
+6  received:  0
+10  received:  6412
+9  received:  7000
+8  received:  0
+65534  received:  0
+DEBUG:of_tutorial:This time end !!!
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:0c
+00:00:00:00:00:01
+10.0.1.2
+10.0.1.99
+1
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:07
+00:00:00:00:00:0c
+10.0.1.102
+10.0.1.8
+12
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:01
+00:00:00:00:00:0c
+10.0.1.102
+10.0.1.2
+12
+End>>>>>>>>>
+ARP mzw
+Start >>>>>>>>>>> ARP
+10.0.1.102
+10.0.1.6
+End ARP ............................
+2  received:  0
+5  received:  8568
+11  received:  0
+7  received:  7882
+1  received:  9646
+4  received:  0
+3  received:  9156
+12  received:  52864
+6  received:  0
+10  received:  6902
+9  received:  7490
+8  received:  0
+65534  received:  0
+DEBUG:of_tutorial:This time end !!!
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:0c
+00:00:00:00:00:09
+10.0.1.10
+10.0.1.99
+9
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:09
+00:00:00:00:00:0c
+10.0.1.102
+10.0.1.10
+12
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:0c
+00:00:00:00:00:03
+10.0.1.4
+10.0.1.99
+3
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:03
+00:00:00:00:00:0c
+10.0.1.102
+10.0.1.4
+12
+End>>>>>>>>>
+2  received:  0
+5  received:  9058
+11  received:  0
+7  received:  8372
+1  received:  10136
+4  received:  0
+3  received:  9450
+12  received:  55608
+6  received:  0
+10  received:  7392
+9  received:  7784
+8  received:  0
+65534  received:  0
+DEBUG:of_tutorial:This time end !!!
+ARP mzw
+Start >>>>>>>>>>> ARP
+10.0.1.102
+10.0.1.8
+End ARP ............................
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:0c
+00:00:00:00:00:0a
+10.0.1.11
+10.0.1.99
+10
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:0a
+00:00:00:00:00:0c
+10.0.1.102
+10.0.1.11
+12
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:0c
+00:00:00:00:00:05
+10.0.1.6
+10.0.1.99
+5
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:05
+00:00:00:00:00:0c
+10.0.1.102
+10.0.1.6
+12
+End>>>>>>>>>
+2  received:  0
+5  received:  9352
+11  received:  0
+7  received:  8862
+1  received:  10626
+4  received:  0
+3  received:  9940
+12  received:  58394
+6  received:  0
+10  received:  7686
+9  received:  8274
+8  received:  0
+65534  received:  0
+DEBUG:of_tutorial:This time end !!!
+ARP mzw
+Start >>>>>>>>>>> ARP
+10.0.1.102
+10.0.1.10
+End ARP ............................
+2  received:  0
+5  received:  9842
+11  received:  0
+7  received:  9352
+1  received:  11116
+4  received:  0
+3  received:  10430
+12  received:  61376
+6  received:  0
+10  received:  8176
+9  received:  8764
+8  received:  0
+65534  received:  0
+DEBUG:of_tutorial:This time end !!!
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:0c
+00:00:00:00:00:07
+10.0.1.8
+10.0.1.99
+7
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:0c
+00:00:00:00:00:01
+10.0.1.2
+10.0.1.99
+1
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:07
+00:00:00:00:00:0c
+10.0.1.102
+10.0.1.8
+12
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:01
+00:00:00:00:00:0c
+10.0.1.102
+10.0.1.2
+12
+End>>>>>>>>>
+ARP mzw
+Start >>>>>>>>>>> ARP
+10.0.1.102
+10.0.1.11
+End ARP ............................
+2  received:  0
+5  received:  10332
+11  received:  0
+7  received:  9646
+1  received:  11410
+4  received:  0
+3  received:  10920
+12  received:  64162
+6  received:  0
+10  received:  8666
+9  received:  9254
+8  received:  0
+65534  received:  0
+DEBUG:of_tutorial:This time end !!!
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:0c
+00:00:00:00:00:09
+10.0.1.10
+10.0.1.99
+9
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:09
+00:00:00:00:00:0c
+10.0.1.102
+10.0.1.10
+12
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:0c
+00:00:00:00:00:03
+10.0.1.4
+10.0.1.99
+3
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:03
+00:00:00:00:00:0c
+10.0.1.102
+10.0.1.4
+12
+End>>>>>>>>>
+2  received:  0
+5  received:  10822
+11  received:  0
+7  received:  10136
+1  received:  11900
+4  received:  0
+3  received:  11214
+12  received:  66906
+6  received:  0
+10  received:  9156
+9  received:  9548
+8  received:  0
+65534  received:  0
+DEBUG:of_tutorial:This time end !!!
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:0c
+00:00:00:00:00:0a
+10.0.1.11
+10.0.1.99
+10
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:0a
+00:00:00:00:00:0c
+10.0.1.102
+10.0.1.11
+12
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:0c
+00:00:00:00:00:05
+10.0.1.6
+10.0.1.99
+5
+End>>>>>>>>>
+2  received:  0
+5  received:  11214
+11  received:  0
+7  received:  10626
+1  received:  12390
+4  received:  0
+3  received:  11704
+12  received:  69650
+6  received:  0
+10  received:  9450
+9  received:  10038
+8  received:  0
+65534  received:  0
+DEBUG:of_tutorial:This time end !!!
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:05
+00:00:00:00:00:0c
+10.0.1.102
+10.0.1.6
+12
+End>>>>>>>>>
+ARP mzw
+Start >>>>>>>>>>> ARP
+10.0.1.102
+10.0.1.2
+End ARP ............................
+2  received:  0
+5  received:  11606
+11  received:  0
+7  received:  11116
+1  received:  12880
+4  received:  0
+3  received:  12194
+12  received:  72632
+6  received:  0
+10  received:  9940
+9  received:  10528
+8  received:  0
+65534  received:  0
+DEBUG:of_tutorial:This time end !!!
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:0c
+00:00:00:00:00:07
+10.0.1.8
+10.0.1.99
+7
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:0c
+00:00:00:00:00:01
+10.0.1.2
+10.0.1.99
+1
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:07
+00:00:00:00:00:0c
+10.0.1.102
+10.0.1.8
+12
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:01
+00:00:00:00:00:0c
+10.0.1.102
+10.0.1.2
+12
+End>>>>>>>>>
+ARP mzw
+Start >>>>>>>>>>> ARP
+10.0.1.102
+10.0.1.4
+End ARP ............................
+2  received:  0
+5  received:  12096
+11  received:  0
+7  received:  11410
+1  received:  13174
+4  received:  0
+3  received:  12684
+12  received:  75418
+6  received:  0
+10  received:  10430
+9  received:  11018
+8  received:  0
+65534  received:  0
+DEBUG:of_tutorial:This time end !!!
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:0c
+00:00:00:00:00:09
+10.0.1.10
+10.0.1.99
+9
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:09
+00:00:00:00:00:0c
+10.0.1.102
+10.0.1.10
+12
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:0c
+00:00:00:00:00:03
+10.0.1.4
+10.0.1.99
+3
+End>>>>>>>>>
+2  received:  0
+5  received:  12586
+11  received:  0
+7  received:  11900
+1  received:  13664
+4  received:  0
+3  received:  13076
+12  received:  78162
+6  received:  0
+10  received:  10920
+9  received:  11312
+8  received:  0
+65534  received:  0
+DEBUG:of_tutorial:This time end !!!
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:03
+00:00:00:00:00:0c
+10.0.1.102
+10.0.1.4
+12
+End>>>>>>>>>
+ARP mzw
+Start >>>>>>>>>>> ARP
+10.0.1.102
+10.0.1.6
+End ARP ............................
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:0c
+00:00:00:00:00:0a
+10.0.1.11
+10.0.1.99
+10
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:0a
+00:00:00:00:00:0c
+10.0.1.102
+10.0.1.11
+12
+End>>>>>>>>>
+2  received:  0
+5  received:  13076
+11  received:  0
+7  received:  12390
+1  received:  14154
+4  received:  0
+3  received:  13468
+12  received:  81046
+6  received:  0
+10  received:  11214
+9  received:  11802
+8  received:  0
+65534  received:  0
+DEBUG:of_tutorial:This time end !!!
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:0c
+00:00:00:00:00:05
+10.0.1.6
+10.0.1.99
+5
+End>>>>>>>>>
+IP mzw
+Start>>>>>>>>> IP
+00:00:00:00:00:05
+00:00:00:00:00:0c
+10.0.1.102
+10.0.1.6
+12
+End>>>>>>>>>
+ARP mzw
+Start >>>>>>>>>>> ARP
+10.0.1.102
+10.0.1.8
+End ARP ............................
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
